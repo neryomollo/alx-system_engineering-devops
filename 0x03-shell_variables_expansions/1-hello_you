@@ -1,2 +1,2 @@
 #!/bin/bash
-jbsvbivbiuwsb
+echo "hello" $USER
